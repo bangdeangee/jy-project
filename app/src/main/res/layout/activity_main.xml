@@ -11,8 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scrollbarFadeDuration="0"
-        android:scrollbarSize="5dp"
-        android:scrollbarThumbVertical="@android:color/darker_gray"
+        android:scrollbarSize="1dp"
+        android:scrollbarThumbVertical="@android:color/white"
         android:scrollbars="vertical"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
