@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">한국사</string>
+
+    <string name="admob_app_id">ca-app-pub-8813788960899355~6268109195</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8813788960899355/8050898496</string>
+
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
 </resources>
